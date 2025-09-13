@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ah!ttm3iq@d1+b0(_y!wl5i3tmwg%v8x()c!&hr^v&ukmbpwq2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 #GDAL Library
 #GDAL_LIBRARY_PATH = r"C:\Program Files\release-1928-x64-gdal-3-11-3-mapserver-8-4-0\bin\gdal.dll"
 
